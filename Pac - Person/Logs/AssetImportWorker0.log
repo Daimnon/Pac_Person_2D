@@ -171,3 +171,92 @@ Received Import Request.
 Start importing Assets/Avraham's.unity using Guid(b90f77fd506fdcf478f39abc81f8edaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d6a2115cfda9195ec796490dd40f29') in 0.006811 seconds 
   Import took 0.009311 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 57.421761 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(e6df8ae22edecc14587dc964330a119b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(e6df8ae22edecc14587dc964330a119b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3914efa644b3a3cef0222352036e6c2d') in 0.007604 seconds 
+  Import took 0.010100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.854029 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(4bfca1c341ef07a4da53c332359e3c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(4bfca1c341ef07a4da53c332359e3c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faee9ace2be86147e4d2d1fc4bbc939a') in 0.020078 seconds 
+  Import took 0.022676 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003642 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.998 seconds
+Domain Reload Profiling:
+	ReloadAssembly (998ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (828ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (284ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (309ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (203ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1483 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1923.
+Total: 2.690800 ms (FindLiveObjects: 0.126600 ms CreateObjectMapping: 0.039800 ms MarkObjects: 2.508000 ms  DeleteObjects: 0.015500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 305.265397 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(4bfca1c341ef07a4da53c332359e3c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(4bfca1c341ef07a4da53c332359e3c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2ab3aac45954d268d9d5352927b70ed') in 0.007592 seconds 
+  Import took 0.010846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.388642 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(4bfca1c341ef07a4da53c332359e3c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(4bfca1c341ef07a4da53c332359e3c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99af9346476a0cbb8771f43aa6913cfc') in 0.001734 seconds 
+  Import took 0.004427 seconds .
+
